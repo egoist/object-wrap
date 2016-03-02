@@ -2,7 +2,7 @@
 
 > Wrap object items in a function, recursively.
 
-Just like Redux's [bindActionCreator](http://redux.js.org/docs/api/bindActionCreators.html) but suport nested object.
+Just like Redux's [bindActionCreators](http://redux.js.org/docs/api/bindActionCreators.html) but support nested object.
 
 ## Install
 
