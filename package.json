@@ -1,6 +1,6 @@
 {
   "name": "object-wrap",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "Wrap object items in a function, recursively.",
   "license": "MIT",
   "repository": "egoist/object-wrap",
